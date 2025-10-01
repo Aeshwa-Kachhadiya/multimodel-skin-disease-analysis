@@ -11,8 +11,7 @@ This dashboard was designed to answer the following critical questions related t
 * Which patient group (e.g., **age 60+**) is disproportionately affected by the total disease rate?
 
 ## Dashboard Preview
-<img width="1447" height="781" alt="dashboard_preview" src="https://github.com/user-attachments/assets/4eb8d325-0439-4ad0-a06c-abde7bfb0e11" />
-
+<img width="1279" height="712" alt="image" src="https://github.com/user-attachments/assets/7d2956f6-9912-4464-80d2-dd401dc048d8" />
 
 ## Analysis Process
 This section outlines the technical steps taken in Power BI to transform the raw data into the final dashboard:
@@ -50,6 +49,6 @@ The analysis provides clear direction for healthcare stakeholders, translating d
 
 ## 🔗 Live Interactive Dashboard
 You can view and interact with the full, live report here:
-**https://app.powerbi.com/view?r=eyJrIjoiZDU0NGU5ZTEtYmQ1Mi00OWI1LTllYzAtZGQ3OWI0MGYzZmM3IiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9**
+**https://app.powerbi.com/reportEmbed?reportId=0fce1c3e-18da-447c-ba5c-00757d3574b2&autoAuth=true&ctid=70de1992-07c6-480f-a318-a1afcba03983**
 
 
